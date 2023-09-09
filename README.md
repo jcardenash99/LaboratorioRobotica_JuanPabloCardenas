@@ -13,6 +13,8 @@ Por esta razón se plantea el diseño de la herramienta formando un ángulo de i
 
 ![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Angulo%20herramienta.png)
 Figura 5.1 Angulo de la heramienta.
+Teniendo en cuenta las condiciones del laboratorio y los errores que se pueden generar tanto en la calibración de la herramienta y la definición del workobjet, se propone un diseño en el cual el marcador permita moverse en los cambios de nivel de la superficie. El diseño consiste en dejar el mercador dentro del cilindro de manera libre, amortiguado con un resorte el cual mantiene la punta del marcador siempre afuera de tal manera que al encontrar un cambio de nivel el resorte se comprime permitiendo que el marcador ingrese en el cilindro. Una vez superado el cambio de nivel el resorte hace que retorne a su posición inicial, permitiendo así que la punta del marcador y el cuerpo de la herramienta no sufra daños.
+
 ### 6. Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
 ![Video Plano](./Simulacion%20Robot%20Studio/Objeto%20Plano.mp4)
