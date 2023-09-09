@@ -36,6 +36,7 @@ Finalmente, para la sujeción al flanche se tuvo en cuenta el cilindro centrador
 
 A continuación, se muestra el código en rapid del marcado de los nombres en el plano X(+), Y(+) a 0°, y en el plano X(+), Y(-) inclinado a 45°.
 
+'''RAPID
 MODULE Module1
         CONST robtarget INICIO:=[[605.800092124,-0.000003562,515.311713289],[0.087155684,-0.000000011,0.996194703,-0.000000017],[0,-1,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_10:=[[188.964,215.825,0],[0,0,1,0],[0,-1,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
@@ -537,6 +538,7 @@ MODULE Module1
     ENDPROC
     
 ENDMODULE
+'''
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
 [![Video Plano](./Simulacion%20Robot%20Studio/Objeto%20Plano.mov)
 ![Video Plano](./Simulacion%20Robot%20Studio/Plano%20inclinado.mov)
