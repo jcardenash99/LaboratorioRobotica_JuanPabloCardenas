@@ -1,5 +1,10 @@
 # Robotica_2023_Lab1
 ## Integrantes
+
+### Wilfer Armando Fiquitiva Mendez.
+### Johan Leonardo Castellanos Ruiz.
+### Juan PLablo Cardenas Higuera.
+
 ### 1.  Descripcion de la solucion plan
 
 
@@ -38,6 +43,7 @@ A continuación, se muestra el código en rapid del marcado de los nombres en el
 
 '''RAPID
 MODULE Module1
+
         CONST robtarget INICIO:=[[605.800092124,-0.000003562,515.311713289],[0.087155684,-0.000000011,0.996194703,-0.000000017],[0,-1,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_10:=[[188.964,215.825,0],[0,0,1,0],[0,-1,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_20:=[[148.964,205.184,0],[0,0,1,0],[0,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
