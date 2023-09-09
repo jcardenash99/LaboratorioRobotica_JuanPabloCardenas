@@ -25,7 +25,7 @@ Par ale caso del grabado en el plano inclinado en el cuadrante X(+), Y(-), se cr
 
 
 
-teada.
+
 ### 2. Diagrama de flujo de acciones del robot
 ![](./Diagrama%20de%20flujo/Flowchart.jpg)
 ###Figura 2.1 Diagrama de flujo.
