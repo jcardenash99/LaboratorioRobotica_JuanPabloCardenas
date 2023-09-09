@@ -1,2 +1,3 @@
 # Robotica_2023_Lab1
-![DIAGRAMA](./Diseño de herramientas/pantallazo)
+
+![DIAGRAMA](./Diseño%20de%20herramientas/pantallazo.png)
