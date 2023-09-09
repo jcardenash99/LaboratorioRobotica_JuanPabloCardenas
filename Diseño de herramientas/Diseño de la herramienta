@@ -1,6 +1,6 @@
 Para la practica se requiere diseñar y hacer una herramienta de grabado el cual permite montas y desmontar un marcador.
-El mmarcdor debe permitir el cambio de posicion vertical de tal manera que pueda a daptarse a los cmabios de nivel de la superficie en la que esta dibujando.
-editando:....
-Segunda prueba
-
-hjknklmkll
+El mmarcdor debe permitir el cambio de posicion vertical de tal manera que pueda adaptarse a los cmabios de nivel de la superficie en la que esta dibujando.
+Adicionala ello se debe tener en cuenta que la forma de la herramienta debe tener una orientacion tal que no quede alienada con el tercer eje, 
+con el fin de que el robot no entre en singularidades en ninguno de los ejes.
+Por esta razon se plantea el diselño de la herrmienta que quese muestr en la figura a conticuación donde el soporte se tiene el soporte que se acopla a la brida del robot,
+seguido de un cilindro conuna nclinacion de 40 grados en e l cual se monta el marcador.
