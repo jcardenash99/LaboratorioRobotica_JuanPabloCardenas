@@ -2,11 +2,7 @@
 ## Integrantes
 ### 1.  Descripcion de la solucion plan
 
-https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/45ac2377-12f2-4768-b934-019e1a6f6831
 
-
-
-https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/0bdce6fe-05aa-4da9-bf31-913585bcf2ac
 
 teada.
 ### 2. Diagrama de flujo de acciones del robot
@@ -26,5 +22,14 @@ Teniendo en cuenta las condiciones del laboratorio y los errores que se pueden g
 
 ### 6. Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
-![Video Plano](./Simulacion%20Robot%20Studio/Objeto%20Plano.mov)
+[![Video Plano](./Simulacion%20Robot%20Studio/Objeto%20Plano.mov)
 ![Video Plano](./Simulacion%20Robot%20Studio/Plano%20inclinado.mov)
+](https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/45ac2377-12f2-4768-b934-019e1a6f6831
+
+
+
+https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/0bdce6fe-05aa-4da9-bf31-913585bcf2ac)https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/45ac2377-12f2-4768-b934-019e1a6f6831
+
+
+
+https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/0bdce6fe-05aa-4da9-bf31-913585bcf2ac
