@@ -560,12 +560,14 @@ ENDMODULE
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
 
 
+
+https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/dc436bb3-b748-48b8-ba96-7f84bd5ae119
+
+https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/0bdce6fe-05aa-4da9-bf31-913585bcf2ac
+
+
 [Manipulador En el Plano ‐ Hecho con Clipchamp.webm](https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/b339e395-4676-42f8-8f3b-0b4bf4afbbce)
 
 
-https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/3f14e063-ac47-4cf7-bd39-5c18d7d6611c
 
 
-
-
-https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/0bdce6fe-05aa-4da9-bf31-913585bcf2ac
