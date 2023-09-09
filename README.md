@@ -579,7 +579,9 @@ ENDMODULE
 
 https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/dc436bb3-b748-48b8-ba96-7f84bd5ae119
 
-https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/0bdce6fe-05aa-4da9-bf31-913585bcf2ac
+
+https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/f64812e4-84ea-4b48-a483-699adc4ee913
+
 
 [Manipulador En el Plano.webm](https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/c494d301-c95c-44f7-a60e-96117139daaf)
 
