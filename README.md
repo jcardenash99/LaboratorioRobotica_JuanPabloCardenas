@@ -26,6 +26,7 @@ Teniendo en cuenta las condiciones del laboratorio y los errores que se pueden g
 ### Figura 5.2 Cilindro internamente.
 
 En la figura 5.2 se muestra como está construido el cilindro el cual es escalonado en la parte inferior que no permite que el marcador se salga, una vez el marcador ingresa se coloca un resorte y luego un tornillo brístol sin cabeza que rosca en la parte superior, cerrando el cilindro sin permitir que el marcador se salga y su vez permitiendo la compresión del resorte para el movimiento libre del marcador.
+Finalmente, para la sujeción a la brida se tuvo en cuenta el cilindro centrador el cual ingresa en la brida del robot y permite mantener la herramienta guiada con respecto al centro de la brida y así poder garantizar la posición en cada montaje de tal manera que la posición del tcp de la herramienta respecto a la muñeca, siempre sea el mismo y así poder evitar estar calibrando la herramienta cada vez que se monte.
 
 ![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Centrador%20brida.png)
 ### Figura 5.3 Centrador brida.
