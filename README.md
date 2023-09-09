@@ -13,6 +13,10 @@ Partimos por definir el tamaño de la torta en la cual vamos a hacer el grabado 
 
 
 A su vez se diseña y modela la herramienta con la cual se realiza el grabado tanto en la simulación de robotStudio como en el robot del laboratorio. Una vez se tienen estos modelos se importan los modelos a robotStudio con el cual se crea la herramienta de trabajo se monta en el robot y con el modelo de la torta se define su ubicación en el plano X Y positivo.
+
+![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Modelo%20herramienta.png)
+###Figura 1.2 Modelado Torta.
+
 Una vez ubicado el modelo del objeto se define el workobjet como coordenada de trabajo a partir del cual quedan referenciadas las trayectorias a grabar en la torta, este workobjet permite que las trayectorias se mantengan dentro de la torta y se actualicen si llegamos a cambiar de posición la torta dentro del mundo.
 Una vez definida tanto la herramienta con su respectivo tcp las coordenadas de objeto de la torta y suposición se procede a definir os puntos or los cuales debe pasar el robot haciendo el trazo, una vez identificados estos puntos se crea la trayectoria indicada por estos puntos.
 Par ale caso del grabado en el plano inclinado en el cuadrante X(+), Y(-), se crea un workobject en la posición deseada con una inclinación de los ejes de 45 ° y se copian las operaciones realizadas en el caso anterior y se ejecutan sobre este plano.
