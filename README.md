@@ -41,7 +41,7 @@ Finalmente, para la sujeción al flanche se tuvo en cuenta el cilindro centrador
 
 A continuación, se muestra el código en rapid del marcado de los nombres en el plano X(+), Y(+) a 0°, y en el plano X(+), Y(-) inclinado a 45°.
 
-'''RAPID
+'''rapid
 
 MODULE Module1
 
