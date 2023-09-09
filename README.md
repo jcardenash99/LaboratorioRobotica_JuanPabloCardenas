@@ -578,9 +578,6 @@ https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/dc436bb3-b748
 
 https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/0bdce6fe-05aa-4da9-bf31-913585bcf2ac
 
-
-[Manipulador En el Plano ‐ Hecho con Clipchamp.webm](https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/b339e395-4676-42f8-8f3b-0b4bf4afbbce)
-
-
+[Manipulador En el Plano.webm](https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/c494d301-c95c-44f7-a60e-96117139daaf)
 
 
