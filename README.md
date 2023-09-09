@@ -1,5 +1,8 @@
 # Robotica_2023_Lab1
 ## Integrantes
+Wilfer Armando Fiquitiva Mendez.
+Johan Leonardo Castellanos Ruiz.
+Juan PLablo Cardenas Higuera.
 ### 1.  Descripcion de la solucion plan
 
 
