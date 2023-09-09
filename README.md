@@ -3,7 +3,7 @@
 
 ### Wilfer Armando Fiquitiva Mendez.
 ### Johan Leonardo Castellanos Ruiz.
-### Juan PLablo Cardenas Higuera.
+### Juan Pablo Cardenas Higuera.
 
 ### 1.  Descripcion de la solucion planteada
 Partimos por definir el tamaño de la torta en la cual vamos a hacer el grabado de los nombres, para nuestro caso es rectangular de 250x200x120mm modelada en un software cad solidworks (figura 1.1) en el cual se inscribieron en el modelo los nombres determinando su tamaño y distribución dentro de la misma para que fueran legibles y bien distribuidos dentro de la misma.
