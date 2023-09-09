@@ -15,3 +15,5 @@ Por esta razón se plantea el diseño de la herramienta formando un ángulo de i
 Figura 5.1 Angulo de la heramienta.
 ### 6. Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
+![Video Plano](./Simulacion%20Robot%20Studio/Objeto%20Plano.mp4)
+![Video Plano](./Simulacion%20Robot%20Studio/Plano%20inclinado.mp4)
