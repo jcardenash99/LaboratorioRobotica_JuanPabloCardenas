@@ -12,5 +12,6 @@ Adicional a ello se debe tener en cuenta que la forma de la herramienta debe ten
 Por esta razón se plantea el diseño de la herramienta formando un ángulo de inclinación de 130 grados como se muestra en la figura 5.1 continuación donde el soporte se tiene el soporte que se acopla a la brida del robot, seguido de un cilindro con una inclinación de 40 grados en e l cual se monta el marcador.
 
 ![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Angulo%20herramienta.png)
+Figura 5.1 Angulo de la heramienta.
 ### 6. Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
