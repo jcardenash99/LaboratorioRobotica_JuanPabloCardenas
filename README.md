@@ -23,7 +23,7 @@ Una vez ubicado el modelo del objeto se define el workobjet como coordenada de t
 Una vez definida tanto la herramienta con su respectivo tcp las coordenadas de objeto de la torta y suposición se procede a definir los puntos por los cuales debe pasar el robot haciendo el trazo, una vez identificados estos puntos se crea la trayectoria indicada por estos puntos.
 Para el caso del grabado en el plano inclinado en el cuadrante X(+), Y(-), se crea un workobject en la posición deseada con una inclinación de los ejes de 45 ° y se copian las operaciones realizadas en el caso anterior y se ejecutan sobre este plano.
 
-
+![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Trazado.png)
 ###Figura 1.2 Trazado de trayectorias.
 
 
