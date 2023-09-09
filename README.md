@@ -31,6 +31,7 @@ Para el caso del grabado en el plano inclinado en el cuadrante X(+), Y(-), se cr
 ![](./Diagrama%20de%20flujo/Flowchart.jpg)
 ###Figura 2.1 Diagrama de flujo.
 ### 3. Plano de planta de la ubicacion de cada uno de los elementos.
+![Plano de planta](./Plano%20de%20planta/PLANO%20DE%20PLANTA.jpg)
 ![Vista de planta Robot Studio](https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/1d46f83d-ab79-4994-9226-7d9741bd186b)
 
 ### 4. Descripcion de las funciones utilizadas.
