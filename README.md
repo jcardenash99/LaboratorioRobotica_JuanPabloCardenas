@@ -1,5 +1,6 @@
 # Robotica_2023_Lab1
 ## Integrantes
+
 Wilfer Armando Fiquitiva Mendez.
 Johan Leonardo Castellanos Ruiz.
 Juan PLablo Cardenas Higuera.
