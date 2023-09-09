@@ -7,6 +7,9 @@
 
 ### 1.  Descripcion de la solucion planteada
 Partimos por definir el tamaño de la torta en la cual vamos a hacer el grabado de los nombres, para nuestro caso es rectangular de 250x200x120mm modelada en un software cad solidworks (figura 1.1) en el cual se inscribieron en el modelo los nombres determinando su tamaño y distribución dentro de la misma para que fueran legibles y bien distribuidos dentro de la misma.
+![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Torta.png)
+###Figura 1.1 Modelado Torta.
+
 A su vez se diseña y modela la herramienta con la cual se realiza el grabado tanto en la simulación de robotStudio como en el robot del laboratorio. Una vez se tienen estos modelos se importan los modelos a robotStudio con el cual se crea la herramienta de trabajo se monta en el robot y con el modelo de la torta se define su ubicación en el plano X Y positivo.
 Una vez ubicado el modelo del objeto se define el workobjet como coordenada de trabajo a partir del cual quedan referenciadas las trayectorias a grabar en la torta, este workobjet permite que las trayectorias se mantengan dentro de la torta y se actualicen si llegamos a cambiar de posición la torta dentro del mundo.
 Una vez definida tanto la herramienta con su respectivo tcp las coordenadas de objeto de la torta y suposición se procede a definir os puntos or los cuales debe pasar el robot haciendo el trazo, una vez identificados estos puntos se crea la trayectoria indicada por estos puntos.
@@ -28,18 +31,18 @@ Adicional a ello se debe tener en cuenta que la forma de la herramienta debe ten
 Por esta razón se plantea el diseño de la herramienta formando un ángulo de inclinación de 130 grados como se muestra en la figura 5.1 continuación donde el soporte se tiene el soporte que se acopla a la brida del robot, seguido de un cilindro con una inclinación de 40 grados en e l cual se monta el marcador.
 
 ![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Angulo%20herramienta.png)
-### Figura 5.1 Angulo de la heramienta.
+###Figura 5.1 Angulo de la heramienta.
 
 Teniendo en cuenta las condiciones del laboratorio y los errores que se pueden generar tanto en la calibración de la herramienta y la definición del workobjet, se propone un diseño en el cual el marcador permita moverse en los cambios de nivel de la superficie. El diseño consiste en dejar el mercador dentro del cilindro de manera libre, amortiguado con un resorte el cual mantiene la punta del marcador siempre afuera de tal manera que al encontrar un cambio de nivel el resorte se comprime permitiendo que el marcador ingrese en el cilindro. Una vez superado el cambio de nivel el resorte hace que retorne a su posición inicial, permitiendo así que la punta del marcador y el cuerpo de la herramienta no sufra daños.
 
 ![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Dise%C3%B1o%20amortiguado.png)
-### Figura 5.2 Cilindro internamente.
+###Figura 5.2 Cilindro internamente.
 
 En la figura 5.2 se muestra como está construido el cilindro el cual es escalonado en la parte inferior que no permite que el marcador se salga, una vez el marcador ingresa se coloca un resorte y luego un tornillo brístol sin cabeza que rosca en la parte superior, cerrando el cilindro sin permitir que el marcador se salga y su vez permitiendo la compresión del resorte para el movimiento libre del marcador.
 Finalmente, para la sujeción al flanche se tuvo en cuenta el cilindro centrador el cual ingresa en la brida del robot y permite mantener la herramienta guiada con respecto al centro de la brida y así poder garantizar la posición en cada montaje de tal manera que la posición del tcp de la herramienta respecto a la muñeca, siempre sea el mismo y así poder evitar estar calibrando la herramienta cada vez que se monte.
 
 ![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Centrador%20brida.png)
-### Figura 5.3 Centrador brida.
+###Figura 5.3 Centrador brida.
 
 
 ### 6. Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
