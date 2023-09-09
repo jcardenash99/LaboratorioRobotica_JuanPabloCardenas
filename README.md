@@ -6,7 +6,7 @@
 
 teada.
 ### 2. Diagrama de flujo de acciones del robot
-![]-(./Diagrama%20de%20flujo/Flowchart.jpg)
+![](./Diagrama%20de%20flujo/Flowchart.jpg)
 ###Figura 2.1 Diagrama de flujo.
 ### 3. Plano de planta de la ubicacion de cada uno de los elementos.
 ### 4. Descripcion de las funciones utilizadas.
