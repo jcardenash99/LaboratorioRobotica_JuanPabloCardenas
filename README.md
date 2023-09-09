@@ -26,6 +26,11 @@ Teniendo en cuenta las condiciones del laboratorio y los errores que se pueden g
 ### Figura 5.2 Cilindro internamente.
 
 En la figura 5.2 se muestra como está construido el cilindro el cual es escalonado en la parte inferior que no permite que el marcador se salga, una vez el marcador ingresa se coloca un resorte y luego un tornillo brístol sin cabeza que rosca en la parte superior, cerrando el cilindro sin permitir que el marcador se salga y su vez permitiendo la compresión del resorte para el movimiento libre del marcador.
+
+![](https://github.com/jcardenash99/Robotica_2023_Lab1/blob/main/Dise%C3%B1o%20de%20herramientas/Centrador%20brida.png)
+### Figura 5.3 Centrador brida.
+
+
 ### 6. Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
 [![Video Plano](./Simulacion%20Robot%20Studio/Objeto%20Plano.mov)
