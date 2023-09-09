@@ -41,7 +41,7 @@ Finalmente, para la sujeción al flanche se tuvo en cuenta el cilindro centrador
 
 A continuación, se muestra el código en rapid del marcado de los nombres en el plano X(+), Y(+) a 0°, y en el plano X(+), Y(-) inclinado a 45°.
 
-'''rapid
+```rapid
 
 MODULE Module1
 
@@ -546,7 +546,7 @@ MODULE Module1
     
 ENDMODULE
 
-'''
+```
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
 [![Video Plano](./Simulacion%20Robot%20Studio/Objeto%20Plano.mov)
 ![Video Plano](./Simulacion%20Robot%20Studio/Plano%20inclinado.mov)
