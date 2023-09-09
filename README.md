@@ -5,7 +5,7 @@
 ### Johan Leonardo Castellanos Ruiz.
 ### Juan PLablo Cardenas Higuera.
 
-### 1.  Descripcion de la solucion plan
+### 1.  Descripcion de la solucion planteada
 
 
 
