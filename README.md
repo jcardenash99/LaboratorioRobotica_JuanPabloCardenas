@@ -22,6 +22,8 @@ Por esta razón se plantea el diseño de la herramienta formando un ángulo de i
 
 Teniendo en cuenta las condiciones del laboratorio y los errores que se pueden generar tanto en la calibración de la herramienta y la definición del workobjet, se propone un diseño en el cual el marcador permita moverse en los cambios de nivel de la superficie. El diseño consiste en dejar el mercador dentro del cilindro de manera libre, amortiguado con un resorte el cual mantiene la punta del marcador siempre afuera de tal manera que al encontrar un cambio de nivel el resorte se comprime permitiendo que el marcador ingrese en el cilindro. Una vez superado el cambio de nivel el resorte hace que retorne a su posición inicial, permitiendo así que la punta del marcador y el cuerpo de la herramienta no sufra daños.
 
+
+En la figura 5.2 se muestra como está construido el cilindro el cual es escalonado en la parte inferior que no permite que el marcador se salga, una vez el marcador ingresa se coloca un resorte y luego un tornillo brístol sin cabeza que rosca en la parte superior, cerrando el cilindro sin permitir que el marcador se salga y su vez permitiendo la compresión del resorte para el movimiento libre del marcador.
 ### 6. Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
 ### 7. Video que contenga la simulacion en RobotStudio asi como la implementacion de la practica con los robotsreales.
 [![Video Plano](./Simulacion%20Robot%20Studio/Objeto%20Plano.mov)
