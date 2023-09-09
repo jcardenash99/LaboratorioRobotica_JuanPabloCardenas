@@ -32,7 +32,7 @@ Para el caso del grabado en el plano inclinado en el cuadrante X(+), Y(-), se cr
 ###Figura 2.1 Diagrama de flujo.
 ### 3. Plano de planta de la ubicacion de cada uno de los elementos.
 ### 4. Descripcion de las funciones utilizadas.
-Las funciones usadas en las trayectorias:
+Las funciones usadas en las trayectorias:        
 -        MoveL (MoveLine): Funcion  utilizada para mover el punto central de la herramienta (TCP o Tool Centre Point) de forma lineal a un punto de destino a una velocidad especifica.
 
 -        MoveJ (MoveJoint): Funcion usada para mover el TCP de la herramienta de un punto a otro de forma rapida sin que esto implique una linea recta, el manipulador y los ejes llegan a la posivion todos al mismo tiempo.
