@@ -1,6 +1,14 @@
 # Robotica_2023_Lab1
 ## Integrantes
-### 1.  Descripcion de la solucion planteada.
+### 1.  Descripcion de la solucion plan
+
+https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/45ac2377-12f2-4768-b934-019e1a6f6831
+
+
+
+https://github.com/jcardenash99/Robotica_2023_Lab1/assets/61796945/0bdce6fe-05aa-4da9-bf31-913585bcf2ac
+
+teada.
 ### 2. Diagrama de flujo de acciones del robot
 ### 3. Plano de planta de la ubicacion de cada uno de los elementos.
 ### 4. Descripcion de las funciones utilizadas.
